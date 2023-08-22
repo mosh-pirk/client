@@ -26,6 +26,11 @@ const SIDEBAR_ITEMS = [
     icon: 'home',
   },
   {
+    title: 'Users',
+    path: '/users',
+    icon: 'account',
+  },
+  {
     title: 'Tools',
     path: '/tools',
     icon: 'tools',
